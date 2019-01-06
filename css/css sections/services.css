@@ -1,0 +1,79 @@
+body{
+    zoom: 0.9;
+}
+.clientIssues{
+    /* padding: 70px 100px 30px 140px; */
+}
+.ServiceTitle{
+    font-size: 30px;
+    color: #636363;
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+.clientIssues h1{
+    font-size: x-large;
+    display: block;
+    width: 100%;
+    font-weight: 600;
+}
+.clientIssues p{
+    display: block;
+    width: 100%;
+    color: #636363;
+}
+#clientIssuesContainer{
+    background-color: white;
+    box-shadow: 3px 3px 3px grey;
+    padding: 45px 0 20px 0;
+    color: #666acb;
+    position: relative;
+    z-index: 2;
+}
+.ServicesContainer{
+    padding-top: 35px;
+    padding-bottom: 60px;
+    box-shadow: none;
+}
+.ServicesContainer h1{
+    font-size: 30px;
+    display: block;
+    width: 100%;
+    padding-bottom: 20px;
+    color: #636363;
+    font-weight: 600;
+}
+.title{
+    font-weight: 600;
+}
+#ServicesContainer2{
+    padding-top: 35px;
+    padding-bottom: 60px;
+}
+#ServicesContainer2 .serviceContent{
+    box-shadow: 3px 3px 3px grey;
+}
+#ServicesContainer2 .serviceContent .blightgrey{
+    min-height: 245px;
+}
+#ServicesContainer2 .title{
+    font-size: x-large;
+    font-weight: 600;
+    color: #636363;
+}
+.blightgrey{
+    background-color: #e7e7e5;
+    background-color: #cdcdcb;
+}
+#ServicesContainer2 h1{
+    padding-top: 20px;
+    font-size: 20px;
+    color: #666acb;
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+.no-shadow{
+    box-shadow: none !important;
+}
+.shadow{
+    box-shadow: 3px 3px 3px grey;
+}

@@ -1,0 +1,42 @@
+#header{
+    /* box-shadow: 1px 1px 1px #a4a4a4; */
+    /* background: rgba(1,1,1,0.6)!important; */
+    /* text-align: center; */
+    box-shadow: 2px 2px 2px #373737;
+    /* box-shadow: 1px 1px 1px #b1b3f9; */
+    background: rgb(255, 255, 255)!important;
+    /* background: rgba(55, 55, 55,0.5)!important; */
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    width: 100%;
+}
+#slogan{
+    color: #666acb;
+    font-size: x-large;
+    font-weight: 500;
+}
+#logo img{
+    height: 100px;
+    width: 218px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#headerSocial{
+    /* color: #666acb; */
+    font-size: xx-large;
+}
+#headerSocial a{
+    /* margin-left: 8px; */
+}
+#upperHeader{
+    /* min-height: 107px; */
+}
+.myRow{
+    text-align: left !important;
+    padding-left: 18px !important;
+    max-width: 62.5rem;
+    display: block !important;
+    margin: auto !important;
+}

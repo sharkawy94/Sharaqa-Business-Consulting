@@ -1,0 +1,53 @@
+.aboutUsSection{
+    padding: 30px 150px;
+    background-color: #dedcf4;
+    /* background-color: rgb(181, 221, 195); */
+    color: #666acb;
+    /* color: white; */
+    position: relative;
+}
+.aboutUsSection h1{
+    font-size: xx-large;
+}
+.whiteBackground{
+    background-color: white;
+    color: #353535;
+}
+.z3{
+    z-index: 3;
+    box-shadow: 3px 3px 3px grey;
+    transform: translateY(-100%);
+    transition: 0.6s all;
+}
+.z2{
+    z-index: 2;
+    box-shadow: 3px 3px 3px grey;
+    transform: translateY(-200%);
+    transition: 1.2s all;
+}
+.z1{
+    z-index: 1;
+    transition: 1.8s all;
+    transform: translateY(-300%);
+}
+.move{
+    transform: translateY(0);
+}
+#aspiraitionsContainer{
+    padding: 40px 0;
+}
+#aspirations{
+    box-shadow: 3px 3px 3px grey;
+    background-color: #e7e7e5;
+    /* background-color: #cdcdcb; */
+}
+#aspirations .title{
+    font-size: xx-large;
+    margin-bottom: 20px;
+    padding-top: 15px;
+    color: #666acb;
+}
+#aspirations p{
+    font-size: larger;
+    color: #636363;
+}

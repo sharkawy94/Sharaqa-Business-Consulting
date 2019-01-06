@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    /* height: 100vh; */
+    background-color: #c6c6ec;
+    /* #e7e7e5 */
+    /* background-image: url("../img/background\ 6.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: top;
+    background-position-x: center;
+}
+#white{
+    background-color: white;
+}
+#homeBackground{
+    position: relative;
+    background-image: url("../img/backI1.jpg");
+    /* height: calc(100vh - 146px); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#homeBackground .row{
+    height: 100%;
+}
+.align-left{
+    text-align: left !important;
+}
+.homeSlogan{
+    font-size: 40px;
+    color: #666acb;
+    font-weight: 600px;
+}
